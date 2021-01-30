@@ -30,7 +30,7 @@ function generateMarkdown(data) {
   
   ## License
   
-  This is project has a ${data.license} license. 
+  This project has a ${data.license} license. 
   
   ## Contributing
   
